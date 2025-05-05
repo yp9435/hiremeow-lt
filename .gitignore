@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+ENV/
+env/
+.venv/
+
+# VS Code settings (optional, if you use VS Code)
+.vscode/
+
+# Jupyter Notebook checkpoints (optional)
+.ipynb_checkpoints/
+
+# macOS (optional)
+.DS_Store
+
+# Windows thumbnail cache (optional)
+Thumbs.db
